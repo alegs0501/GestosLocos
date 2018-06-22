@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GestosLocos</string>
+    <string name="infoTextLabel">Info</string>
+    <string name="gestureTextLabel">Gesture</string>
+</resources>
